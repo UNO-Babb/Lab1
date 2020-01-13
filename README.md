@@ -56,6 +56,15 @@ Your Mad Lib must:
 - Consider usability in design (be clear)
 - Create a story with the user supplied words.
 
+There are a few ways to join words in python:
+
+```
+noun1 = "Bicycle"
+print("I like to ride my " + noun1)
+print("I like to ride my", noun1)
+```
+Test which works best for you, note where the spaces fall using the different methods.
+
 Please remember to fill in all of the info at the top of the document.
 
 ## Magic8Ball.py
