@@ -17,7 +17,7 @@
 - Accept the Lab 1 assignment from GitHub classroom. You can find the assignment on Canvas.
 - Once you've cloned the repository, get the link from GitHub
 - Open Atom on your computer
-  - Type Ctrl + Alt + P in Atom
+  - Type Ctrl + Shift + P in Atom
   - Search for "GitHub: Clone" in Atom
   - Paste the link from GitHub in the popup
 
