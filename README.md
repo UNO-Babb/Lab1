@@ -94,6 +94,15 @@ Create a program that will allow the user to ask a question, then provide a rand
 
 You may select to use these or answers you have created. They key is that they are given a random answer to the question they ask.
 
+How to create a list of possible answers:
+```
+answers = ["thing 1", "thing 2"] # Each item must be in quotes, separated by a comma.
+```
+Since we imported random at the top of our file, we can use the following code to select a random item from the list.
+```
+response = random.choice(answers)
+```
+
 ## Testing your code
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
