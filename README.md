@@ -3,7 +3,7 @@
 ## Overview
 - Setup GitHub account
   - [GitHub.com](https://www.github.com)
-- Create an account on (Repl.it)(https://repl.it/)
+- Create an account on [Repl.it](https://repl.it/)
 ---
 ### Atom Editor
 - How to configure Python on your home computers
@@ -23,8 +23,8 @@
   - Alternatively you can type **F5** on your keyboard
 
 ## Instructions
-- Copy the GitHub link for this lab (https://github.com/UNO-Babb/Lab1)
-- In (Repl.it)[https://repl.it/], click the **New Repl (+)** in the top right corner
+- Copy the GitHub link for this lab https://github.com/UNO-Babb/Lab1
+- In [Repl.it](https://repl.it), click the **New Repl (+)** in the top right corner
 - Select **Import from GitHub** and paste the link
 - The **.replit** file decides what happens when you click the run button
 
