@@ -5,17 +5,19 @@
   - [GitHub.com](https://www.github.com)
 - Create an account on [Repl.it](https://repl.it/)
 ---
-### Atom Editor
+### Text Editor
 - How to configure Python on your home computers
   - Download Python
     - [python.org](https://www.python.org/)
-  - Download Atom
+  - Download a Text Editor
     - [Atom.io](https://atom.io/)
-  - Install Python-run
-    - File -> Settings
-    - Install -> python
-    - Click Install on the python-run extension
-    - Hit F5 on your computer to run your current python script.
+    - [Notepad++](https://notepad-plus-plus.org/downloads/)
+    - [Sublime Text](https://www.sublimetext.com/)
+  - In a command-line interface:
+    - Navigate to the folder with your python file.
+    - Use command **python file.py** where ***file*** is changed for the name of your file.
+    - Depending on configuration, the command may be **python3 file.py**
+    
 ### IDLE Editor
 - IDE that comes with Python when you download
 - Opens to an interactive shell
