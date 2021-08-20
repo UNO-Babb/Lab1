@@ -1,4 +1,4 @@
-# Lab 1 - CYBR 2980
+# Lab 1 - CIST 1600
 
 ## Overview
 - Setup GitHub account
