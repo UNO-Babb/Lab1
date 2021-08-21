@@ -1,8 +1,7 @@
 # Lab 1 - CIST 1600
 
 ## Overview
-- Setup GitHub account
-  - [GitHub.com](https://www.github.com)
+- Look at different ways of creating/running a Python program.
 - Create an account on [Repl.it](https://repl.it/)
 ---
 ### Text Editor
@@ -17,7 +16,7 @@
     - Navigate to the folder with your python file.
     - Use command **python file.py** where ***file*** is changed for the name of your file.
     - Depending on configuration, the command may be **python3 file.py**
-    
+
 ### IDLE Editor
 - IDE that comes with Python when you download
 - Opens to an interactive shell
