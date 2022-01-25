@@ -2,7 +2,9 @@
 
 ## Overview
 - Look at different ways of creating/running a Python program.
+- Create a GitHub account (if you don't have one).
 - Create an account on [Repl.it](https://repl.it/)
+
 ---
 ### Text Editor
 - How to configure Python on your home computers
