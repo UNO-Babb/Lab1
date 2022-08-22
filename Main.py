@@ -10,4 +10,4 @@ import MadLib
 #Removing the # sign in front of the call will make it part of the command.
 
 FirstProgram.main()
-#MabLib.main()
+#MadLib.main()
