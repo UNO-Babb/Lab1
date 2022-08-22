@@ -1,2 +1,2 @@
 language = "python3"
-run = "python FirstProgram.py"
+run = "python Main.py"
