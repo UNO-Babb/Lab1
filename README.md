@@ -2,8 +2,8 @@
 
 ## Overview
 - Look at different ways of creating/running a Python program.
-- Create a GitHub account (if you don't have one).
-- Create an account on [Repl.it](https://repl.it/)
+- Create a GitHub account.
+- Open GitHub Classroom and GitHub Code Spaces
 
 ---
 ### Text Editor
@@ -26,12 +26,11 @@
   - Alternatively you can type **F5** on your keyboard
 
 ## Instructions
-- Copy the GitHub link for this lab https://github.com/UNO-Babb/Lab1
-- In [Repl.it](https://repl.it), click the **New Repl (+)** in the top right corner
-- Select **Import from GitHub** and paste the link
-- The **.replit** file decides what happens when you click the run button
+- Log into GitHub and Canvas
+- Accept the assignment from GitHub Classroom in Canvas
+- Open in GitHub Code Spaces
 
-Now that we have the files on your repl.it, we will start to work with the Python file.
+Now that we have the files in GitHub, we will start to work with the Python file.
 
 ## FirstProgram.py
 The instructions for the program is in code. In python, a pound sign (#) is used to denote a comment. This is code that will not execute and is only there for the benefit of the programmer.
@@ -82,4 +81,4 @@ Please remember to fill in all of the info at the top of the document.
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
 ## End of class
-In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
+Submit your work in GitHub Classroom
