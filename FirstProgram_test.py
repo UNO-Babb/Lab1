@@ -2,6 +2,7 @@ import unittest
 from unittest.mock import patch
 from io import StringIO
 import string
+from datetime import datetime
 import FirstProgram
 
 class TestFirstProgram(unittest.TestCase):
@@ -16,7 +17,8 @@ class TestFirstProgram(unittest.TestCase):
         output = mock_stdout.getvalue().strip()
         output = output.translate(str.maketrans('', '', string.punctuation))
         output_list = output.split()
-        expected_elements = ["John", "1999"]
+        year = str(datetime.now().year - 25)
+        expected_elements = ["John", year]
         for element in expected_elements:
             self.assertIn(element, output_list)
 
