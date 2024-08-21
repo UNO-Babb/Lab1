@@ -15,3 +15,8 @@ def main():
 
   #Tell the user what year they were born in.
   #Assume that they have not had their birthday yet this year.
+
+
+#Call the main function if this is the file being run.
+if __name__ == '__main__':
+    main()
