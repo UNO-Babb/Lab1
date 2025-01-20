@@ -32,7 +32,9 @@
 
 Now that we have the files in GitHub, we will start to work with the Python file.
 
-## FirstProgram.py
+## FirstProgram.py - SKIP SPRING 2025
+**We will skip this assignment this semester since we have a short week to begin the semester.**
+
 The instructions for the program is in code. In python, a pound sign (#) is used to denote a comment. This is code that will not execute and is only there for the benefit of the programmer.
 
 Please label all of your work. There is an area at the top of the code for the file name, your name, the purpose of the file, and the last revision date. Please update all of this info.
@@ -81,4 +83,7 @@ Please remember to fill in all of the info at the top of the document.
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
 ## End of class
-Submit your work in GitHub Classroom
+- Add a commit message
+- Commit to GitHub
+- Sync work with Repo
+- Submit your repo link to Canvas
